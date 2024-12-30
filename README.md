@@ -2,7 +2,7 @@
 
 I love complex things... starting with music. Movies like "Interstellar" make me shiver. <br>
 If I start doing something... I do the best I can. I was afraid of programming, today I'm in love. <br>
-An always growing full stack developer student from Brazil. <br>
+An always growing full stack developer from Brazil. <br>
 
 - 🌱 I’m currently learning: Back-end | OOP, Mongo DB, Spring...
 - 📫 How to reach me: joel.almeida.sa@gmail.com
